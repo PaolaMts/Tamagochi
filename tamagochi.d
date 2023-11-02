@@ -1,0 +1,14 @@
+.\tamagochi.o: tamagochi\tamagochi.c
+.\tamagochi.o: tamagochi\../tamagochi/tamagochi.h
+.\tamagochi.o: tamagochi\../tamagochi/../GLCD/GLCD.h
+.\tamagochi.o: C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.7.1\Device\Include\LPC17xx.h
+.\tamagochi.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.8.0\CMSIS\Core\Include\core_cm3.h
+.\tamagochi.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\tamagochi.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_version.h
+.\tamagochi.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_compiler.h
+.\tamagochi.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_armcc.h
+.\tamagochi.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.8.0\CMSIS\Core\Include\mpu_armv7.h
+.\tamagochi.o: C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.7.1\Device\Include\system_LPC17xx.h
+.\tamagochi.o: tamagochi\../tamagochi/../timer/timer.h
+.\tamagochi.o: tamagochi\../tamagochi/../adc/adc.h
+.\tamagochi.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
